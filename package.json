@@ -19,7 +19,7 @@
   "homepage": "https://github.com/arockiaanandraj/svn-utility#readme",
   "dependencies": {
     "node-svn-ultimate": "^1.2.1",
-    "papaparse": "^5.0.2",
+    "papaparse": "^5.2.0",
     "rimraf": "^3.0.0"
   }
 }
